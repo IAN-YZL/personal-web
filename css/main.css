@@ -135,6 +135,7 @@ header {
       max-width: 280px;
       max-width: 280px;
       margin-bottom: -75px;
+      margin: auto;
       border: 3px solid #fff;
       background-color: #fff; }
       .personal-page__header .photo img {
